@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LojaVirtual</string>
+    <string name="lbl_usuario">Usuario:</string>
+    <string name="lbl_senha">Senha:</string>
+    <string name="lbl_repitasenha">Repita Senha:</string>
+    <string name="new_usuario">Usuario:</string>
+    <string name="new_senha">Senha:</string>
+    <string name="new_repitasenha">Repita Senha:</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cadastrar">Cadastre-se</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_confirmar">CONFIRMAR</string>
+    <string name="nome">NOME:</string>
+    <string name="data_nascimento">DATA NASCIMENTO:</string>
+    <string name="cpf">CPF</string>
+    <string name="email">E-MAIL:</string>
+    <string name="telefone">TELEFONE:</string>
+    <string name="img_content_description"/>
+    <string name="login_user_size_invalid">Seu login deve ter entre 4 e 15 caracteres!</string>
+    <string name="login_pass_size_invalid">Sua senha deve ter entre 6 e 15 caracteres!</string>
+</resources>
