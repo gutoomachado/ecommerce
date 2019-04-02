@@ -4,7 +4,7 @@ pipeline {
     stage('teste') {
       steps {
           sh '''
-              echo $TESTE
+              echo $123
           '''
         }
       }
